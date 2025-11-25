@@ -1,0 +1,12 @@
+{
+  "name": "claude-code-advanced-tool-use",
+  "version": "0.0.1",
+  "description": "Proxy to add tool search tool Claude Code API requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
